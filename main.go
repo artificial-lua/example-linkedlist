@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/artificial-lua/example-linkedlist/linkedlist"
+	"github.com/artificial-lua/example-linkedlist-go/linkedlist"
 )
 
 func main() {
